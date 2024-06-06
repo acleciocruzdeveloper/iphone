@@ -7,3 +7,7 @@
 src/IMediea.java,a\7\a7a1c5b8d8654396d032eb1022e7032f5dc4b61d
 @
 src/ISafari.java,d\a\da66b0ff04fd74e553c1abb481c13d1226336315
+?
+src/IPhone.java,7\2\72a167c46840f215e07f8a90adccc288f89186ec
+C
+src/ITelephone.java,8\2\8234a8ca4e0a734411f459b92a55d868ceff0db0
