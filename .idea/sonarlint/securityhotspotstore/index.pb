@@ -5,3 +5,5 @@
 src/Midea.java,0\1\018d9d644c989febec6f15a82d748cb5c2b1556b
 @
 src/IMediea.java,a\7\a7a1c5b8d8654396d032eb1022e7032f5dc4b61d
+@
+src/ISafari.java,d\a\da66b0ff04fd74e553c1abb481c13d1226336315
